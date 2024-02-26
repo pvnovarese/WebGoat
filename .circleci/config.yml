@@ -3,7 +3,7 @@ jobs:
 
   ### the following variables have been set in the "anchore" context
   ###
-  ### ANCHORECTL_USERNAME
+  ### ANCHORECTL_USERNAME 
   ### ANCHORECTL_PASSWORD
   ### ANCHORECTL_URL
   ### 
